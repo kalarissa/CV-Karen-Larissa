@@ -98,6 +98,11 @@ body{
     color: #03a9f4;
 }
 
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
 .formacao{
     padding-top: 40px; 
     color: #fff;
